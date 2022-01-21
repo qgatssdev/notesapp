@@ -1,5 +1,6 @@
 import React from 'react';
 import { MdDeleteForever } from 'react-icons/md';
+import '../css/note.css';
 
 function Note() {
   return (
